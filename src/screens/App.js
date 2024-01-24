@@ -3,15 +3,16 @@
 import React, { useState } from 'react';
 import { View, Text, StyleSheet, Button, } from 'react-native';
 import { LinearGradient } from 'expo-linear-gradient';
+import MenuClient from './MenuClient/Menu';
 
 
 export default function App() {
   return (
-
   <View style={styles.containers}>
     <LinearGradient
       colors={['#DE6262', '#FFB88C']}
       style={styles.background}/>
+      <MenuClient/>
   </View>
   );
 }
