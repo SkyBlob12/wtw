@@ -10,7 +10,7 @@ export default function App() {
   return (
   <View style={styles.containers}>
     <LinearGradient
-      colors={['#DE6262', '#FFB88C']}
+      colors={['#FFFF', '#FFB88C']}
       style={styles.background}/>
       <MenuClient/>
   </View>

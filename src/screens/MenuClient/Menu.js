@@ -6,6 +6,12 @@ import { View, Text, TouchableOpacity, StyleSheet, Image } from 'react-native';
 const MenuClient = () => {
   return (
     <View style={styles.container}>
+      <TouchableOpacity style={styles.qrcodeMenu}>
+      <Image
+        style={styles.qrcode}
+        source={require('../../icons/qrcodeMenu.png')}
+      />
+      </TouchableOpacity>
       <Image
       style={styles.backMenu}
       source={require('../../icons/backgroundMenu.png')}/>
@@ -46,7 +52,7 @@ const MenuClient = () => {
 const styles = StyleSheet.create({
   container: {
     position: 'absolute',
-    bottom: 0,
+    bottom: 0
   },
   
   backMenu: {
@@ -82,6 +88,18 @@ const styles = StyleSheet.create({
   menuTextSelected:{
     fontSize:13,
     color: '#de6262'
+  },
+
+  qrcode:{
+    width:65,
+    height:65,
+    
+  },
+
+  qrcodeMenu:{
+    position: 'absolute',
+    left:182,
+    bottom: 70
   }
 });
 
