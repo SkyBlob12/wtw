@@ -4,6 +4,7 @@ import React from 'react';
 import { View, Text, TouchableOpacity, StyleSheet, Image } from 'react-native';
 
 const MenuClient = () => {
+
   return (
     <View style={styles.container}>
       <TouchableOpacity style={styles.qrcodeMenu}>
