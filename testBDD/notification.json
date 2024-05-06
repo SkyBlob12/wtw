@@ -1,0 +1,26 @@
+[
+  {
+    "userId": "663881d9b1f837b5966f3e65",
+    "title": "Nouvelle notification",
+    "message": "Vous avez un nouveau message dans votre boîte de réception.",
+    "type": "message",
+    "status": "unread",
+    "createdAt": "2024-04-17T08:00:00.000Z"
+  },
+  {
+    "userId": "663881d9b1f837b5966f3e65",
+    "title": "Notification importante",
+    "message": "Votre abonnement expirera bientôt. Pensez à le renouveler.",
+    "type": "subscription",
+    "status": "unread",
+    "createdAt": "2024-04-16T12:30:00.000Z"
+  },
+  {
+    "userId": "663881d9b1f837b5966f3e66",
+    "title": "Promotion spéciale",
+    "message": "Profitez de notre promotion spéciale ce week-end seulement.",
+    "type": "promotion",
+    "status": "read",
+    "createdAt": "2024-04-15T18:45:00.000Z"
+  }
+]

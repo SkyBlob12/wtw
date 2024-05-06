@@ -1,0 +1,30 @@
+[
+    {
+      "name": "Restaurant XYZ",
+      "address": "123 Main Street",
+      "postalCode": "12345",
+      "city": "Anytown",
+      "openingHours": "Mon-Fri: 9am-9pm, Sat-Sun: 10am-10pm",
+      "photos": ["https://example.com/photo1.jpg", "https://example.com/photo2.jpg"],
+      "criters": ["Family-friendly", "Vegetarian options"]
+    },
+    {
+      "name": "Café ABC",
+      "address": "456 Elm Street",
+      "postalCode": "54321",
+      "city": "Othertown",
+      "openingHours": "Mon-Sun: 7am-7pm",
+      "photos": ["https://example.com/photo3.jpg"],
+      "criters": ["Cozy atmosphere", "Outdoor seating"]
+    },
+    {
+      "name": "Bakery QRS",
+      "address": "789 Oak Street",
+      "postalCode": "67890",
+      "city": "Somewhere",
+      "openingHours": "Tue-Sat: 8am-6pm, Sun: 9am-4pm",
+      "photos": ["https://example.com/photo4.jpg", "https://example.com/photo5.jpg"],
+      "criters": ["Freshly baked goods", "Gluten-free options"]
+    }
+  ]
+  

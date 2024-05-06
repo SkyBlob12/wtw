@@ -1,0 +1,29 @@
+[
+  {
+    "email": "utilisateur1@example.com",
+    "username": "utilisateur1",
+    "password": "motdepasse1",
+    "firstName": "John",
+    "lastName": "Doe",
+    "dateOfBirth": "1990-05-15",
+    "avatar": "https://exemple.com/avatar1.jpg"
+  },
+  {
+    "email": "utilisateur2@example.com",
+    "username": "utilisateur2",
+    "password": "motdepasse2",
+    "firstName": "Jane",
+    "lastName": "Smith",
+    "dateOfBirth": "1985-10-20",
+    "avatar": "https://exemple.com/avatar2.jpg"
+  },
+  {
+    "email": "utilisateur3@example.com",
+    "username": "utilisateur3",
+    "password": "motdepasse3",
+    "firstName": "Alice",
+    "lastName": "Johnson",
+    "dateOfBirth": "1995-03-08",
+    "avatar": "https://exemple.com/avatar3.jpg"
+  }
+]
